@@ -1,4 +1,4 @@
 # TESTS
 
 
-This repository is for tests an little programs of mine.
+This repository is for tests and little programs of mine.
