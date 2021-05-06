@@ -1,3 +1,4 @@
 # TESTS
 
-Just a test :)
+
+This repository is for tests an little programs of mine.
